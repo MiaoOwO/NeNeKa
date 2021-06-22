@@ -1,6 +1,6 @@
 # 个人使用
 ## Config
-`RedisConfig`     redis序列化
+`RedisConfig`     redis序列化\n
 `SwaggerConfig`   swagger页面设置
 `WebMvcConfig`    资源映射配置
 ## Util
