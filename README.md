@@ -1,4 +1,4 @@
-# 个人使用
+# 说明
 ## Config
 `RedisConfig`     redis序列化
 
