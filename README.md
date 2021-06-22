@@ -1,6 +1,6 @@
 # 说明
 ## Config
-`RedisConfig`     redis序列化
+`RedisConfig`     redis序列化和反序列化
 
 `SwaggerConfig`   swagger页面设置
 
