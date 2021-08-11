@@ -1,4 +1,8 @@
-# 说明
+# 文件说明
+Cheru             切噜切噜，切噜语转换
+
+
+# 无关紧要的文件说明
 ## Config
 `RedisConfig`     redis序列化和反序列化
 
