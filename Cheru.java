@@ -73,4 +73,5 @@ public class Cheru {
         if (str.equals("f")||str.equals("F")){return 15;}
         return -1;
     }
+    
 }
